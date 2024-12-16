@@ -1,5 +1,8 @@
 # Optimizing Clinic Allocation Using 0/1 Knapsack
 
+![395537243-4d9b5636-d151-4156-b679-0065861937d3](https://github.com/user-attachments/assets/4de395a9-2cb0-43c8-89cc-0f78963410f5)
+
+
 ## Overview
 
 This program solves a real-world optimization problem: **The Egyptian Ministry of Health (MOH) aims to allocate new clinics to specific areas to maximize the population served within a given budget.** Each area has an associated population (benefit) and cost (expense). The goal is to select areas such that the total cost does not exceed the budget while maximizing the total population served.
